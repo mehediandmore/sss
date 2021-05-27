@@ -1,0 +1,32 @@
+*{
+
+
+    background-attachment: fixed;
+}
+
+
+
+.rs-style{
+
+    font-size:200%;
+    text-align:center;
+    
+    
+    
+    
+    }
+    
+    .bdy-image{
+    
+    background-image:url("6.png");
+    background-attachment:fixed;
+    
+    
+    
+    }
+    .h2{
+
+text-align: center;
+color:white;
+
+    }

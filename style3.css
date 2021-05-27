@@ -1,0 +1,44 @@
+*{
+
+background-repeat: no-repeat;
+
+
+
+}
+.table{
+    border:10px pink solid;
+    
+    background-color:deepskyblue;
+    
+    
+    }
+    
+    .caption{
+     font-size:20px;
+     color:white;
+     background-color:dimgray;
+    padding:4px 4px;
+    
+    border: 10px black dotted;
+    
+    }
+    
+    .th,td{
+    
+        border: 10px black solid;
+    background-color:rgb(231, 217, 10);
+    
+    
+    width:90px;
+    
+    
+    }
+    
+    td:hover{
+    
+    background-color:firebrick;
+    
+    
+    }
+    
+    
